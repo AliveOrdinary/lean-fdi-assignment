@@ -23,7 +23,7 @@ export const HeroSection = () => {
             Find a Mentor
           </div>
           <div className="px-16 py-6 text-lg font-bold text-white bg-primary rounded-3xl  drop-shadow-btnshadow cursor-pointer">
-            <Link href="/signup">Become a Mentor</Link>
+            <Link href="/sign-up">Become a Mentor</Link>
           </div>
         </div>
       </div>
